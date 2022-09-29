@@ -1,0 +1,11 @@
+visibilidade 
+padrao(sem escrever nada)- dentro do pacote
+public- qualquer pacote ou classe
+private- soh dentro da propria classe
+protected- classe, pacotes e sub classes podem acessar
+
+static- nao precisa de uma instancia da classe pra poder acessar um metodo ou uma variavel
+
+encapsulamento - get e set, atributos private
+
+herança- extends(herda os atributos e metodos da classe pai para os filhos) classe filho extends classe pai

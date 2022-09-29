@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IMC<POO1>",
+            "request": "launch",
+            "mainClass": "IMC",
+            "projectName": "POO1"
+           "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IPA<POO1>",
+            "request": "launch",
+            "mainClass": "IPA",
+            "projectName": "POO1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Itens<POO1>",
+            "request": "launch",
+            "mainClass": "Itens",
+            "projectName": "POO1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nota<POO1>",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "POO1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Saudacao<POO1>",
+            "request": "launch",
+            "mainClass": "Saudacao",
+            "projectName": "POO1"
+        }
+    ]
+}
